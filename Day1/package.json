@@ -1,0 +1,20 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "## **1. 학습 목표**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/161c479dfb5a786becc7aa763d13c28e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/161c479dfb5a786becc7aa763d13c28e"
+  },
+  "homepage": "https://gist.github.com/161c479dfb5a786becc7aa763d13c28e"
+}
