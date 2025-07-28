@@ -1,0 +1,46 @@
+{
+  "maxSize": 10000,
+  "usedSize": 11,
+  "root": {
+    "type": "directory",
+    "name": "/",
+    "children": {
+      "_type": "map",
+      "data": [
+        [
+          "documents",
+          {
+            "type": "directory",
+            "name": "documents",
+            "children": {
+              "_type": "map",
+              "data": [
+                [
+                  "my_file.txt",
+                  {
+                    "type": "file",
+                    "name": "my_file.txt",
+                    "content": "Hello world",
+                    "encoding": "utf8",
+                    "size": 11
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        [
+          "파일",
+          {
+            "type": "directory",
+            "name": "파일",
+            "children": {
+              "_type": "map",
+              "data": []
+            }
+          }
+        ]
+      ]
+    }
+  }
+}

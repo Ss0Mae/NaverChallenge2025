@@ -1,0 +1,23 @@
+{
+  "name": "day7",
+  "version": "1.0.0",
+  "description": "## 1. 요구사항 분석 🧐",
+  "main": "vfs.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/67801e3482ddf508587789c5d5635f30.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/67801e3482ddf508587789c5d5635f30"
+  },
+  "homepage": "https://gist.github.com/67801e3482ddf508587789c5d5635f30",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
