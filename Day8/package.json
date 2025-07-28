@@ -1,0 +1,23 @@
+{
+  "name": "day8",
+  "version": "1.0.0",
+  "description": "## 🚀 미션 목표",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/11af8c3b2ac8585a8ee6a066b0b66e7c.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/11af8c3b2ac8585a8ee6a066b0b66e7c"
+  },
+  "homepage": "https://gist.github.com/11af8c3b2ac8585a8ee6a066b0b66e7c",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
