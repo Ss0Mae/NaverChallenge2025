@@ -1,0 +1,24 @@
+{
+  "name": "day18-19",
+  "version": "1.0.0",
+  "description": "## 1. 🎯 미션 목표",
+  "main": "BaseClient.js",
+  "scripts": {
+    "test": "jest --runInBand",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/10aa1e1cc20b78fabb4370679d7b51e7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/10aa1e1cc20b78fabb4370679d7b51e7"
+  },
+  "homepage": "https://gist.github.com/10aa1e1cc20b78fabb4370679d7b51e7",
+  "dependencies": {
+    "jest": "^30.0.5"
+  }
+}
